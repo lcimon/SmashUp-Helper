@@ -4,7 +4,7 @@ SmashUp Helper is a companion app for the board game [SmashUp](https://www.iello
 
 This application is developed using **Power Apps Canvas**.
 
-[SmashUp Helper v2](https://user-images.githubusercontent.com/22662809/127060410-1c6cc203-bde2-45d2-ab31-827a560fcb19.gif)
+![SmashUp Helper v2](https://user-images.githubusercontent.com/22662809/127060410-1c6cc203-bde2-45d2-ab31-827a560fcb19.gif)
 
 ## Installation
 
